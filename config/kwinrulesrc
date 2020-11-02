@@ -1,0 +1,141 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Application settings for asciiportal
+desktop=6
+desktoprule=3
+wmclass=asciiportal
+wmclassmatch=1
+
+[10]
+Description=Application settings for torbrowser-launcher
+desktop=2
+desktoprule=3
+wmclass=torbrowser-launcher
+wmclassmatch=1
+
+[11]
+Description=Application settings for google-chrome
+desktop=2
+desktoprule=3
+wmclass=google-chrome
+wmclassmatch=1
+
+[12]
+Description=Application settings for spotify
+desktop=5
+desktoprule=3
+wmclass=spotify
+wmclassmatch=1
+
+[13]
+Description=Application settings for vlc
+desktop=5
+desktoprule=3
+wmclass=vlc
+wmclassmatch=1
+
+[14]
+Description=Application settings for discord
+desktop=2
+desktoprule=3
+wmclass=discord
+wmclassmatch=1
+
+[15]
+Description=Application settings for ark
+desktop=4
+desktoprule=3
+wmclass=ark
+wmclassmatch=1
+
+[16]
+Description=Application settings for dolphin
+desktop=4
+desktoprule=3
+wmclass=dolphin
+wmclassmatch=1
+
+[17]
+Description=Application settings for subl3
+desktop=3
+desktoprule=3
+wmclass=subl3
+wmclassmatch=1
+
+[18]
+Description=Application settings for konsole
+desktop=1
+desktoprule=3
+wmclass=konsole
+wmclassmatch=1
+
+[19]
+Description=Application settings for firefox
+desktop=2
+desktoprule=3
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
+Description=Application settings for virtualbox machine
+desktop=6
+desktoprule=3
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[3]
+Description=Application settings for virtualbox manager
+desktop=6
+desktoprule=3
+wmclass=virtualbox manager
+wmclassmatch=1
+
+[4]
+Description=Application settings for com.github.johnfactotum.foliate
+desktop=6
+desktoprule=3
+wmclass=com.github.johnfactotum.foliate
+wmclassmatch=1
+
+[5]
+Description=Application settings for ettercap
+desktop=6
+desktoprule=3
+wmclass=ettercap
+wmclassmatch=1
+
+[6]
+Description=Application settings for supertuxkart
+desktop=6
+desktoprule=3
+wmclass=supertuxkart
+wmclassmatch=1
+
+[7]
+Description=Application settings for inkscape
+desktop=6
+desktoprule=3
+wmclass=org.inkscape.inkscape inkscape
+wmclasscomplete=true
+wmclassmatch=1
+
+[8]
+Description=Application settings for gimp-2.10
+desktop=6
+desktoprule=3
+wmclass=gimp-2.10
+wmclassmatch=1
+
+[9]
+Description=Application settings for tor browser
+desktop=2
+desktoprule=3
+wmclass=torlauncher tor browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=19
