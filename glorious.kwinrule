@@ -1,0 +1,141 @@
+[Application settings for ark]
+Description=Application settings for ark
+desktop=4
+desktoprule=3
+fsplevelrule=2
+wmclass=ark
+wmclassmatch=1
+
+[Application settings for asciiportal]
+Description=Application settings for asciiportal
+desktop=6
+desktoprule=3
+wmclass=asciiportal
+wmclassmatch=1
+
+[Application settings for com.github.johnfactotum.foliate]
+Description=Application settings for com.github.johnfactotum.foliate
+desktop=6
+desktoprule=3
+wmclass=com.github.johnfactotum.foliate
+wmclassmatch=1
+
+[Application settings for discord]
+Description=Application settings for discord
+desktop=2
+desktoprule=3
+wmclass=discord
+wmclassmatch=1
+
+[Application settings for dolphin]
+Description=Application settings for dolphin
+desktop=4
+desktoprule=3
+fsplevelrule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[Application settings for ettercap]
+Description=Application settings for ettercap
+desktop=6
+desktoprule=3
+wmclass=ettercap
+wmclassmatch=1
+
+[Application settings for firefox]
+Description=Application settings for firefox
+desktop=2
+desktoprule=3
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for gimp-2.10]
+Description=Application settings for gimp-2.10
+desktop=6
+desktoprule=3
+wmclass=gimp-2.10
+wmclassmatch=1
+
+[Application settings for google-chrome]
+Description=Application settings for google-chrome
+desktop=2
+desktoprule=3
+wmclass=google-chrome
+wmclassmatch=1
+
+[Application settings for inkscape]
+Description=Application settings for inkscape
+desktop=6
+desktoprule=3
+wmclass=org.inkscape.inkscape inkscape
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for konsole]
+Description=Application settings for konsole
+desktop=1
+desktoprule=3
+fsplevelrule=2
+wmclass=konsole
+wmclassmatch=1
+
+[Application settings for spotify]
+Description=Application settings for spotify
+desktop=5
+desktoprule=3
+fsplevelrule=2
+wmclass=spotify
+wmclassmatch=1
+
+[Application settings for subl3]
+Description=Application settings for subl3
+desktop=3
+desktoprule=3
+wmclass=subl3
+wmclassmatch=1
+
+[Application settings for supertuxkart]
+Description=Application settings for supertuxkart
+desktop=6
+desktoprule=3
+fsplevelrule=2
+wmclass=supertuxkart
+wmclassmatch=1
+
+[Application settings for tor browser]
+Description=Application settings for tor browser
+desktop=2
+desktoprule=3
+wmclass=torlauncher tor browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for torbrowser-launcher]
+Description=Application settings for torbrowser-launcher
+desktop=2
+desktoprule=3
+wmclass=torbrowser-launcher
+wmclassmatch=1
+
+[Application settings for virtualbox machine]
+Description=Application settings for virtualbox machine
+desktop=6
+desktoprule=3
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[Application settings for virtualbox manager]
+Description=Application settings for virtualbox manager
+desktop=6
+desktoprule=3
+wmclass=virtualbox manager
+wmclassmatch=1
+
+[Application settings for vlc]
+Description=Application settings for vlc
+desktop=5
+desktoprule=3
+fsplevelrule=2
+wmclass=vlc
+wmclassmatch=1
