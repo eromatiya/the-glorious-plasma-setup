@@ -22,6 +22,7 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 + `Widgets`
 	- Top Panel
 		- Kpple Menu
+		- Window Title
 		- Global Menu
 		- System Tray
 		- Event Calendar
@@ -37,7 +38,6 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 	- `Theme`: [glorious](https://github.com/manilarome/the-glorious-plasma-setup/blob/master/glorious.layout.latte)
 + `KWin Scripts`
 	- `Force Blur`: Force-enable Blur effect for certain windows
-	- `Krohnkite`: A dynamic tiling script for KWin
 + `Virtual Desktops`
 	- Terminals
 	- Internet
