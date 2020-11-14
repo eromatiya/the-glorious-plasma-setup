@@ -13,10 +13,19 @@ desktoprule=3
 wmclass=asciiportal
 wmclassmatch=1
 
-[Application settings for com.github.johnfactotum.foliate]
-Description=Application settings for com.github.johnfactotum.foliate
+[Application settings for citra]
+Description=Application settings for citra
+above=true
+aboverule=3
 desktop=6
 desktoprule=3
+wmclass=citra-qt citra
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for com.github.johnfactotum.foliate]
+Description=Application settings for com.github.johnfactotum.foliate
+fsplevelrule=2
 wmclass=com.github.johnfactotum.foliate
 wmclassmatch=1
 
@@ -37,7 +46,7 @@ wmclassmatch=1
 
 [Application settings for ettercap]
 Description=Application settings for ettercap
-desktop=6
+desktop=8
 desktoprule=3
 wmclass=ettercap
 wmclassmatch=1
@@ -52,7 +61,7 @@ wmclassmatch=1
 
 [Application settings for gimp-2.10]
 Description=Application settings for gimp-2.10
-desktop=6
+desktop=7
 desktoprule=3
 wmclass=gimp-2.10
 wmclassmatch=1
@@ -64,9 +73,16 @@ desktoprule=3
 wmclass=google-chrome
 wmclassmatch=1
 
+[Application settings for gwenview]
+Description=Application settings for gwenview
+above=true
+aboverule=3
+wmclass=gwenview
+wmclassmatch=1
+
 [Application settings for inkscape]
 Description=Application settings for inkscape
-desktop=6
+desktop=7
 desktoprule=3
 wmclass=org.inkscape.inkscape inkscape
 wmclasscomplete=true
@@ -84,7 +100,6 @@ wmclassmatch=1
 Description=Application settings for spotify
 desktop=5
 desktoprule=3
-fsplevelrule=2
 wmclass=spotify
 wmclassmatch=1
 
@@ -93,6 +108,14 @@ Description=Application settings for subl3
 desktop=3
 desktoprule=3
 wmclass=subl3
+wmclassmatch=1
+
+[Application settings for summertimesaga]
+Description=Application settings for summertimesaga
+desktop=6
+desktoprule=3
+fsplevelrule=2
+wmclass=summertimesaga
 wmclassmatch=1
 
 [Application settings for supertuxkart]
@@ -118,16 +141,24 @@ desktoprule=3
 wmclass=torbrowser-launcher
 wmclassmatch=1
 
+[Application settings for uxterm]
+Description=Application settings for uxterm
+desktop=1
+desktoprule=3
+wmclass=xterm uxterm
+wmclasscomplete=true
+wmclassmatch=1
+
 [Application settings for virtualbox machine]
 Description=Application settings for virtualbox machine
-desktop=6
+desktop=8
 desktoprule=3
 wmclass=virtualbox machine
 wmclassmatch=1
 
 [Application settings for virtualbox manager]
 Description=Application settings for virtualbox manager
-desktop=6
+desktop=8
 desktoprule=3
 wmclass=virtualbox manager
 wmclassmatch=1
@@ -138,4 +169,11 @@ desktop=5
 desktoprule=3
 fsplevelrule=2
 wmclass=vlc
+wmclassmatch=1
+
+[Application settings for xterm]
+Description=Application settings for xterm
+desktop=1
+desktoprule=3
+wmclass=xterm
 wmclassmatch=1

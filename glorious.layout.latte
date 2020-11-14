@@ -15,11 +15,38 @@ onPrimary=true
 plugin=org.kde.latte.containment
 raiseOnActivityChange=false
 raiseOnDesktopChange=false
-timerHide=700
+timerHide=350
 timerShow=200
 viewType=0
 visibility=2
 wallpaperplugin=org.kde.image
+
+[Containments][1][Applets][10]
+immutability=1
+plugin=org.kde.latte.separator
+
+[Containments][1][Applets][10][Configuration]
+PreloadWeight=18
+
+[Containments][1][Applets][11]
+immutability=1
+plugin=org.kde.plasma.dittomenu
+
+[Containments][1][Applets][11][Configuration]
+PreloadWeight=100
+
+[Containments][1][Applets][11][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][11][Configuration][General]
+customButtonImage=distributor-logo-archlinux
+favoriteSystemActions=logout,lock-screen
+favoritesPortedToKAstats=true
+numberColumns=4
+showFavoritesFirst=true
+useCustomButtonImage=true
+useExtraRunners=false
 
 [Containments][1][Applets][2]
 immutability=1
@@ -30,69 +57,9 @@ PreloadWeight=18
 
 [Containments][1][Applets][2][Configuration][General]
 isInLatteDock=true
-launchers59=applications:org.kde.konsole.desktop,applications:firefox.desktop,applications:sublime_text_3.desktop,applications:org.kde.dolphin.desktop,applications:com.github.johnfactotum.Foliate.desktop,applications:vlc.desktop
+launchers59=applications:org.kde.konsole.desktop,applications:firefox.desktop,applications:sublime_text_3.desktop,applications:org.kde.dolphin.desktop,applications:com.github.johnfactotum.Foliate.desktop,applications:systemsettings.desktop
 
-[Containments][1][Applets][23]
-immutability=1
-plugin=org.kde.plasma.dittomenu
-
-[Containments][1][Applets][23][Configuration]
-PreloadWeight=81
-
-[Containments][1][Applets][23][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][1][Applets][23][Configuration][General]
-customButtonImage=distributor-logo-archlinux
-favoritesPortedToKAstats=true
-numberColumns=4
-showFavoritesFirst=true
-useCustomButtonImage=true
-
-[Containments][1][Applets][23][Shortcuts]
-global=Meta+Space
-
-[Containments][1][Applets][24]
-immutability=1
-plugin=org.kde.latte.separator
-
-[Containments][1][Applets][24][Configuration]
-PreloadWeight=26
-
-[Containments][1][Applets][25]
-immutability=1
-plugin=org.kde.latte.separator
-
-[Containments][1][Applets][25][Configuration]
-PreloadWeight=26
-
-[Containments][1][Applets][26]
-immutability=1
-plugin=org.kde.plasma.virtualdesktopbar
-
-[Containments][1][Applets][26][Configuration]
-PreloadWeight=26
-
-[Containments][1][Applets][26][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][1][Applets][26][Configuration][Preferences]
-DesktopButtonsSetCommonSizeForAll=true
-DesktopIndicatorsDistinctForDesktopsNeedingAttention=true
-DesktopIndicatorsStyle=3
-DesktopLabelsCustomFont=Inter
-DesktopLabelsStyle=1
-
-[Containments][1][Applets][27]
-immutability=1
-plugin=org.kde.latte.separator
-
-[Containments][1][Applets][27][Configuration]
-PreloadWeight=26
-
-[Containments][1][Applets][28]
+[Containments][1][Applets][4]
 activityId=
 formfactor=0
 immutability=1
@@ -101,8 +68,8 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][28][Configuration]
-PreloadWeight=7
+[Containments][1][Applets][4][Configuration]
+PreloadWeight=21
 activityId=
 formfactor=0
 immutability=1
@@ -111,14 +78,14 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][28][Configuration][ConfigDialog]
+[Containments][1][Applets][4][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][1][Applets][28][Configuration][General]
+[Containments][1][Applets][4][Configuration][General]
 url=file:///home/manilarome
 
-[Containments][1][Applets][29]
+[Containments][1][Applets][5]
 activityId=
 formfactor=0
 immutability=1
@@ -127,8 +94,8 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][29][Configuration]
-PreloadWeight=2
+[Containments][1][Applets][5][Configuration]
+PreloadWeight=21
 activityId=
 formfactor=0
 immutability=1
@@ -137,14 +104,40 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][29][Configuration][ConfigDialog]
+[Containments][1][Applets][5][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][1][Applets][29][Configuration][General]
+[Containments][1][Applets][5][Configuration][General]
+url=file:///home/manilarome/Documents
+
+[Containments][1][Applets][6]
+activityId=
+formfactor=0
+immutability=1
+lastScreen=-1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=
+
+[Containments][1][Applets][6][Configuration]
+PreloadWeight=1
+activityId=
+formfactor=0
+immutability=1
+lastScreen=-1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=
+
+[Containments][1][Applets][6][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][6][Configuration][General]
 url=file:///home/manilarome/Downloads
 
-[Containments][1][Applets][30]
+[Containments][1][Applets][7]
 activityId=
 formfactor=0
 immutability=1
@@ -153,8 +146,8 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][30][Configuration]
-PreloadWeight=7
+[Containments][1][Applets][7][Configuration]
+PreloadWeight=0
 activityId=
 formfactor=0
 immutability=1
@@ -163,19 +156,26 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=
 
-[Containments][1][Applets][30][Configuration][ConfigDialog]
+[Containments][1][Applets][7][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][1][Applets][30][Configuration][General]
+[Containments][1][Applets][7][Configuration][General]
 url=file:///home/manilarome/Videos
 
-[Containments][1][Applets][31]
+[Containments][1][Applets][8]
 immutability=1
 plugin=org.kde.plasma.trash
 
-[Containments][1][Applets][31][Configuration]
-PreloadWeight=26
+[Containments][1][Applets][8][Configuration]
+PreloadWeight=18
+
+[Containments][1][Applets][9]
+immutability=1
+plugin=org.kde.latte.separator
+
+[Containments][1][Applets][9][Configuration]
+PreloadWeight=18
 
 [Containments][1][ConfigDialog]
 DialogHeight=600
@@ -185,15 +185,18 @@ DialogWidth=586
 PreloadWeight=18
 
 [Containments][1][General]
+activeWindowFilter=FromAllScreens
 advanced=false
 alignmentUpgraded=true
-appletOrder=23;24;2;25;26;27;28;29;30;31
+appletOrder=11;2;10;4;5;6;7;9;8
+appletShadowsEnabled=false
 backgroundAllCorners=true
 backgroundRadius=35
-iconSize=48
-lengthExtMargin=10
+iconSize=42
+lengthExtMargin=5
+panelShadows=false
 panelSize=100
-panelTransparency=25
+panelTransparency=40
 screenEdgeMargin=10
 shadowOpacity=60
 shadowSize=45
@@ -201,16 +204,13 @@ shadows=All
 shadowsUpgraded=true
 showGlow=false
 tasksUpgraded=true
-thickMargin=25
-zoomLevel=7
+thickMargin=40
+zoomLevel=2
 
 [Containments][1][Indicator]
 customType=
 enabled=true
 type=org.kde.latte.default
-
-[Containments][1][Indicator][org.kde.latte.default][General]
-lengthPadding=0
 
 [LayoutSettings]
 activities=
@@ -225,3 +225,6 @@ launchers=
 preferredForShortcutsTouched=false
 showInMenu=true
 version=2
+
+[ScreenMapping]
+screenMapping=

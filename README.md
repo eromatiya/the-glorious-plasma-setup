@@ -11,14 +11,14 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 + `Window Decorations`: Sierra Breeze Enhanced
 + `Colors`: WhiteSurDark
 + `System Fonts`: Inter and Roboto
-+ `Icon theme`: Tela Circle blue dark
++ `Icon theme`: Tela Circle blue dark, Papirus
 + `Cursor theme`: Vimix
 + `Wallpaper`: [No Man's Sky : NEXT 8k Ultrawide](https://wall.alphacoders.com/big.php?i=921802)
 + `Lockscreen`: [Subnautica](https://wall.alphacoders.com/big.php?i=988615)
 + `Login Screen`: SDDM
 	- `Theme`: Breeze
 	- `Background`: [The Legend of Zelda: Breath of the Wild](https://wall.alphacoders.com/big.php?i=805656)
-+ `Splash Screen`: ArchSpace
++ `Splash Screen`: Breeze
 + `Widgets`
 	- Top Panel
 		- Kpple Menu
@@ -29,7 +29,6 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 		- Latte Spacers
 	- Latte Dock
 		- Ditto Menu
-		- Virtual Desktop Bar
 		- Latte Separators
 		- Folder Views
 		- Trash
@@ -39,11 +38,13 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 + `KWin Scripts`
 	- `Force Blur`: Force-enable Blur effect for certain windows
 + `Virtual Desktops`
-	- Terminals
+	- Terminal Emulators
 	- Internet
-	- Editors
+	- Text Editors
 	- File Managers
-	- Media
+	- Medias
+	- Games and Emulators
+	- Graphics
 	- Workspace
 
 ## TODO:
