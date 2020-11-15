@@ -44,6 +44,13 @@ fsplevelrule=2
 wmclass=dolphin
 wmclassmatch=1
 
+[Application settings for elisa]
+Description=Application settings for elisa
+desktop=5
+desktoprule=3
+wmclass=elisa
+wmclassmatch=1
+
 [Application settings for ettercap]
 Description=Application settings for ettercap
 desktop=8
@@ -86,6 +93,13 @@ desktop=7
 desktoprule=3
 wmclass=org.inkscape.inkscape inkscape
 wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for kdevelop]
+Description=Application settings for kdevelop
+desktop=8
+desktoprule=3
+wmclass=kdevelop
 wmclassmatch=1
 
 [Application settings for konsole]
