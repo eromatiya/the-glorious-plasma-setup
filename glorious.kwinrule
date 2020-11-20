@@ -19,6 +19,7 @@ above=true
 aboverule=3
 desktop=6
 desktoprule=3
+fsplevelrule=2
 wmclass=citra-qt citra
 wmclasscomplete=true
 wmclassmatch=1
@@ -108,6 +109,13 @@ desktop=1
 desktoprule=3
 fsplevelrule=2
 wmclass=konsole
+wmclassmatch=1
+
+[Application settings for kwin_rules_dialog]
+Description=Application settings for kwin_rules_dialog
+above=true
+aboverule=3
+wmclass=kwin_rules_dialog
 wmclassmatch=1
 
 [Application settings for spotify]
