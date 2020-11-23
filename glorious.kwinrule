@@ -134,6 +134,7 @@ wmclassmatch=1
 
 [Application settings for summertimesaga]
 Description=Application settings for summertimesaga
+blockcompositingrule=2
 desktop=6
 desktoprule=3
 fsplevelrule=2
