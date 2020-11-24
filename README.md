@@ -11,9 +11,9 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 
 + `Plasma Style`: WhiteSur-dark
 + `Application Style`: [Lightly](https://github.com/Luwx/Lightly)
-	- [x] Center tabbar tabs
-	- [ ] Draw widget shadow
-	- [x] Transparent dolphin
+	- Center tabbar tabs ✅
+	- Draw widget shadow ✅
+	- Transparent dolphin ✅
 	- 60% opaqueness
 + `Window Decorations`: Lightly
 + `Colors`: [Custom](local/share/color-schemes)
