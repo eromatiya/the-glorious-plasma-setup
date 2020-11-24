@@ -17,6 +17,7 @@ wmclassmatch=1
 Description=Application settings for citra
 above=true
 aboverule=3
+blockcompositingrule=2
 desktop=6
 desktoprule=3
 fsplevelrule=2
@@ -28,6 +29,15 @@ wmclassmatch=1
 Description=Application settings for com.github.johnfactotum.foliate
 fsplevelrule=2
 wmclass=com.github.johnfactotum.foliate
+wmclassmatch=1
+
+[Application settings for desmume]
+Description=Application settings for desmume
+above=true
+aboverule=3
+desktop=6
+desktoprule=3
+wmclass=desmume
 wmclassmatch=1
 
 [Application settings for discord]
@@ -118,6 +128,13 @@ aboverule=3
 wmclass=kwin_rules_dialog
 wmclassmatch=1
 
+[Application settings for kwrite]
+Description=Application settings for kwrite
+desktop=3
+desktoprule=3
+wmclass=kwrite
+wmclassmatch=1
+
 [Application settings for spotify]
 Description=Application settings for spotify
 desktop=5
@@ -174,6 +191,8 @@ wmclassmatch=1
 
 [Application settings for virtualbox machine]
 Description=Application settings for virtualbox machine
+blockcompositing=true
+blockcompositingrule=2
 desktop=8
 desktoprule=3
 wmclass=virtualbox machine

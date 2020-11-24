@@ -1,15 +1,22 @@
 # the glorious plasma setup
 A mini dotfiles repository that will remind me my KDE Plasma workflow
 
-<p align="center"><img alt="the glorious kde plasma setup" src="glorious.webp"/><br/><i>the glorious kde plasma setup</i></p>
+<p align="center"><img alt="the glorious kde plasma setup" src="scrots/clean.webp"/><br/><i>the glorious kde plasma setup</i></p>
+
+<p align="center"><img alt="the glorious kde plasma setup" src="scrots/launcher.webp"/><br/><i>ditto menu</i></p>
+
+<p align="center"><img alt="the glorious kde plasma setup" src="scrots/dirty.webp"/><br/><i>busy</i></p>
 
 ## Details
 
 + `Plasma Style`: WhiteSur-dark
-+ `Kvantum Theme`: WhiteSur-dark
-+ `Application Style`: Kvantum
-+ `Window Decorations`: Sierra Breeze Enhanced
-+ `Colors`: WhiteSurDark
++ `Application Style`: [Lightly](https://github.com/Luwx/Lightly)
+	- [x] Center tabbar tabs
+	- [ ] Draw widget shadow
+	- [x] Transparent dolphin
+	- 60% opaqueness
++ `Window Decorations`: Lightly
++ `Colors`: [Custom](local/share/color-schemes)
 + `System Fonts`: Inter and Roboto
 + `Icon theme`: Tela Circle blue dark, Papirus
 + `Cursor theme`: Vimix
