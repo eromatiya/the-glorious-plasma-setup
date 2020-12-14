@@ -2,7 +2,7 @@
 A mini dotfiles repository that will remind me my KDE Plasma workflow
 
 <p align="center">
-	<img alt="the glorious kde plasma setup" src="scrots/clean.webp"/>
+	<img alt="the glorious kde plasma setup" src="scrots.webp"/>
 	<br/>
 	<i>
 		the glorious kde plasma setup
