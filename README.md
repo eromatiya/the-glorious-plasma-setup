@@ -1,11 +1,13 @@
 # the glorious plasma setup
 A mini dotfiles repository that will remind me my KDE Plasma workflow
 
-<p align="center"><img alt="the glorious kde plasma setup" src="scrots/clean.webp"/><br/><i>the glorious kde plasma setup</i></p>
-
-<p align="center"><img alt="the glorious kde plasma setup" src="scrots/launcher.webp"/><br/><i>ditto menu</i></p>
-
-<p align="center"><img alt="the glorious kde plasma setup" src="scrots/dirty.webp"/><br/><i>busy</i></p>
+<p align="center">
+	<img alt="the glorious kde plasma setup" src="scrots/clean.webp"/>
+	<br/>
+	<i>
+		the glorious kde plasma setup
+	</i>
+</p>
 
 ## Details
 
@@ -41,7 +43,8 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 		- Trash
 + `Latte Dock`
 	- `Version`: [Master - Latest Commit](https://github.com/KDE/latte-dock)
-	- `Theme`: [glorious](https://github.com/manilarome/the-glorious-plasma-setup/blob/master/glorious.layout.latte)
+	- `Layout`: [glorious](https://github.com/manilarome/the-glorious-plasma-setup/blob/master/glorious.layout.latte)
+	- `Indicator`: [latte-indicator-glorious](https://github.com/manilarome/latte-indicator-glorious)
 + `KWin Scripts`
 	- `Force Blur`: Force-enable Blur effect for certain windows
 + `Virtual Desktops`
