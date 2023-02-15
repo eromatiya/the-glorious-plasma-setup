@@ -12,7 +12,7 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 ## Details
 
 + `Plasma Style`: WhiteSur-dark
-+ `Application Style`: [Lightly](https://github.com/Luwx/Lightly)
++ `Application Style`: [Lightly](https://github.com/boehs/Lightly)
 	- Center tabbar tabs ✅
 	- Draw widget shadow ✅
 	- Transparent dolphin ✅
@@ -30,14 +30,13 @@ A mini dotfiles repository that will remind me my KDE Plasma workflow
 + `Splash Screen`: Breeze
 + `Widgets`
 	- Top Panel
-		- Kpple Menu
-		- Window Title
-		- Global Menu
+		- Window Title Applet [by psifidotos](https://store.kde.org/p/1274218)
+		- Window AppMenu Applet [by psifidotos](https://store.kde.org/p/1274975)
 		- System Tray
-		- Event Calendar
-		- Latte Spacers
+		- Better Inline Clock [by MarialArlt](https://store.kde.org/p/1245902)
+		- Control Center [by prayagjain](https://store.kde.org/p/1916655)
 	- Latte Dock
-		- Ditto Menu
+		- Plasma Drawer [by P-Connor](https://store.kde.org/p/1973454)
 		- Latte Separators
 		- Folder Views
 		- Trash
